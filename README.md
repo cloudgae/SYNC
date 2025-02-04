@@ -60,12 +60,11 @@
 ![ERD](https://github.com/user-attachments/assets/79cd147f-5eee-4b18-b7bb-df5a87d4ca1c)
 
 
-# 팀원별 담당
-https://github.com/Burgessi/Sync
+### 🖥️전체 프로젝트
+🔗 https://github.com/Burgessi/Sync
    
-### 👩‍💻정다정
- <details>
-  <summary>접기/펼치기</summary>
+## 👩‍💻담당 파트 : 정다정
+
 	 
 #### - DB 설계 담당 : 관계형 데이터베이스 설계 / ERD를 통한 물리 DB 설계 및 구축, 관리
 
@@ -93,7 +92,6 @@ https://github.com/Burgessi/Sync
  * #### 개인 정보 조회/수정
 	 * ##### AJAX / commons-fileupload / 다음 주소 API
 
-   </details>
 
 
   
